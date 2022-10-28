@@ -1,0 +1,10 @@
+{   
+    "display_settings": true,
+    "ask_if_display_duplicate_rows": true,
+    "ask_if_delete_duplicate_rows": true,
+    "ask_if_replace_exsisting_file": true,
+    "always_display_duplicate_rows": true,
+    "always_delete_duplicate_rows": true,
+    "always_replace_exsisting_file": true,
+    "set_file_names_to_sheet_names": true
+}
