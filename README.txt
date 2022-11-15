@@ -1,16 +1,5 @@
 MANUAL:
 
-How to run excel_merger.exe from cmd:
-
-cd "path to folder containing excel_merger.exe"
-
-./excel_merger.exe 
-
-No arguments are needed when config.json is in the working directory. If that's not the case: 
-
-./excel_merger.exe -p "path to config" 
-
-
 How to run excel_merger.py script from cmd:
 
 cd "path to folder containing excel_merger.py"
