@@ -19,7 +19,16 @@ def yesno():
 
 supported_extensions=[".xls",".xlsx",".xlsm",".xlsb"]
 class ExcelMerger:
+    '''
+    A class for merging excel files
+    '''
     def __init__(self, path_to_json):
+    '''
+    Paramneters
+    -----------
+    path_to_json: string
+        Path to the config file.
+    '''
         if os.path.isfile("settings.json"):
             # loading settings
             try:
